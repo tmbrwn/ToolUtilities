@@ -1,5 +1,7 @@
-# ToolUtilities [![Build Status](http://ci.tterrag.com/buildStatus/icon?job=Tool Utilities)](http://ci.tterrag.com/job/Tool%20Utilities/)
+# ToolUtilities
 
 ToolUtilities is a Minecraft Mod that adds the ability to upgrade vanilla and modded tools.
 
-You can apply these upgrades in an anvil. Read the tooltips on tools for information on the different upgrades.
+This mod belongs to wyldmods. I have updated it to work with Minecraft version 1.8.
+
+To build this project, copy **src** into a fresh copy of the Forge 1.8-11.14.4.1563 MDK
